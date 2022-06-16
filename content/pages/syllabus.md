@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course texts and requirements,
+  and a statement on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
