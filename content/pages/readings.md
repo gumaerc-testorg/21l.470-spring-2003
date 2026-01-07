@@ -43,7 +43,7 @@ Hume, David. "On Personal Identity" (1739). In *A Treatise of Human Nature.* Edi
 Locke, John. *Essay Concerning Human Understanding* (1689). Edited by Alexander Campbell Fraser. New York: Dover, 1959.
 
 Montagu, Lady Mary Wortley. Selected poems. Available on the World Wide Web at:   
-{{% resource_link "584f7550-9ec9-4c02-8e74-52272fab2e2a" "http://etext.lib.virginia.edu/toc/modeng/public/MonWork.html" %}}
+[http://etext.lib.virginia.edu/toc/modeng/public/MonWork.html](http://etext.lib.virginia.edu/toc/modeng/public/MonWork.html)
 
 Pope, Alexander. "Essay on Man" (1887). In *The Poems of Alexander Pope*. Edited by John Butt. New Haven: Yale University Press, 1963.
 
